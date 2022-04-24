@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @6Orion
-- 👀 I’m interested in frontend web development and 3D frameworks for it!
-- 🌱 I’m currently learning ThreeJS!
-- 💞️ I’m looking to collaborate on ThreeJS projects!
-- 📫 How to reach me: igorpavlovic.com
+I am a web developer with expertise in modern front-end frameworks (Vue.js & Nuxt.js, React). I'm always looking for new things to learn! 
 
 <!---
 6Orion/6Orion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
