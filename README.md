@@ -1,4 +1,4 @@
-I am a software developer and architect with expertise in JavaScript and front-end frameworks (Vue.js & Nuxt.js, React). I'm always looking for new things to learn! 
+Software developer with JS/TS skills and modern front-end frameworks (Vue/Nuxt.js, React).
 
 <!---
 6Orion/6Orion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
